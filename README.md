@@ -1,4 +1,4 @@
-### Hello! I'm Melamit, 14 years old Junior App Engineer.
+### Hello! I'm Melamit!
 ### You can reach me at:</strong>
 Telegram: [@leominerdev](https://t.me/leominerdev)
 <br>Discord: [@leominerdev](https://discordapp.com/users/717034948036526180)
