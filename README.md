@@ -4,4 +4,4 @@ Telegram: [@leominerdev](https://t.me/leominerdev)
 <br>Discord: [@leominerdev](https://discordapp.com/users/717034948036526180)
 <br>Email: leominer.work@outlook.com
 <br>Twitter: [@leominerdev](https://x.com/leominerdev)
-### Also you can donate me at [Ko-fi](https://ko-fi.com/leominerdev)
+### Also you can donate me at [Buy me a coffee](https://www.buymeacoffee.com/leominerdev)
