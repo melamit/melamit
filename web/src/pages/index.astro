@@ -1,0 +1,26 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+---
+
+<Layout title="melamit.design">
+	<main class="max-w-2xl py-4 px-6  font-['Satoshi'] flex flex-col text-zinc-50">
+		<section class="flex flex-col gap-3">
+				<div class="flex flex-col gap-1 ml-4 mb-4">
+					<h1 class="text-lg text-zinc-50 font-semibold">melamit.design</h1>
+					<h2 class="text-base text-zinc-50 font-medium">web designer/developer</h2>
+				</div>
+			</div>
+			<h1 class="text-lg font-semibold ml-4">Projects</h1>
+			<div class="grid grid-cols-card gap-3">
+				<Card title='xiaomi-merlin-kernel-ksu' description='An action to bring KernelSU to your kernel (Redmi Note 9 Kernel by default)' href="https://github.com/melamit/xiaomi-merlin-kernel-ksu"></Card>
+				<Card title='dotfiles' description='Just a dotfiles of mine. Sometimes repository can be empty because of updating.' href="https://github.com/melamit/dotfiles"></Card>
+			</div>
+			<div class='text-base font-semibold flex flex-wrap gap-3 ml-4 mt-4 text-zinc-300 ml-4'>
+				<a href="https://t.me/melamitdesign">Telegram</a>
+				<a href="https://modrinth.com/user/leominerdev">Modrinth</a>
+				<a href="https://github.com/melamit">GitHub</a>
+			</div>
+		</section>
+	</main>
+</Layout>
